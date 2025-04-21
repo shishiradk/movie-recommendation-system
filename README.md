@@ -49,3 +49,7 @@ Recommended Movies:
 3. Gravity
 4. The Avengers
 ...
+
+📎 Credits
+Developed by Shishir
+GitHub: @shishiradk
