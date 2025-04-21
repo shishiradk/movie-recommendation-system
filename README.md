@@ -6,20 +6,20 @@ A simple and effective **Content-Based Movie Recommendation System** built using
 
 ## 🚀 Features
 
-- 📄 TF-IDF Vectorization on movie descriptions
-- 🧠 Cosine Similarity to find related movies
-- 🔁 Interactive movie title matching using Difflib
-- 🧹 Cleaned and pre-processed data for better results
+- 📄 TF-IDF Vectorization on movie descriptions  
+- 🧠 Cosine Similarity to find related movies  
+- 🔁 Interactive movie title matching using Difflib  
+- 🧹 Cleaned and pre-processed data for better results  
 
 ---
 
 ## 🧰 Technologies Used
 
-- Python 3
-- Pandas & NumPy
-- Scikit-learn
-- Difflib
-- Google Colab or Jupyter Notebook
+- Python 3  
+- Pandas & NumPy  
+- Scikit-learn  
+- Difflib  
+- Google Colab or Jupyter Notebook  
 
 ---
 
@@ -31,11 +31,11 @@ This project uses the `movies.csv` file included in the repository. Make sure it
 
 ## 📂 How to Use
 
-1. Clone this repository.
-2. Make sure `movies.csv` is in the same folder as the notebook.
-3. Open the notebook and run all the cells.
-4. Enter a movie title when prompted.
-5. Get top recommended movies instantly! 🍿
+1. Clone this repository.  
+2. Make sure `movies.csv` is in the same folder as the notebook.  
+3. Open the notebook and run all the cells.  
+4. Enter a movie title when prompted.  
+5. Get top recommended movies instantly! 🍿  
 
 ---
 
@@ -49,5 +49,13 @@ Recommended Movies:
 3. Gravity
 4. The Avengers
 ...
+```
 
+---
 
+## 🙌 Credits & 📝 License
+
+> **Developed by:** Shishir  
+> **GitHub:** [@shishiradk](https://github.com/shishiradk)  
+> **License:** MIT License  
+> Feel free to use, share, and modify this project.
