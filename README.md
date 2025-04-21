@@ -50,6 +50,4 @@ Recommended Movies:
 4. The Avengers
 ...
 
-📎 Credits
-Developed by Shishir
-GitHub: @shishiradk
+
