@@ -1,0 +1,13 @@
+prefix=C:/movie-recommendation-system/venv/Library
+exec_prefix=C:/movie-recommendation-system/venv/Library
+libdir=C:/movie-recommendation-system/venv/Library/lib
+sharedlibdir=C:/movie-recommendation-system/venv/Library/lib
+includedir=C:/movie-recommendation-system/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
